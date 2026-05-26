@@ -40,12 +40,12 @@ project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Monisha71326/your-repo-name.git
+   git clone https://github.com/Monisha71326/register.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd your-repo-name
+   cd your-register
    ```
 
 3. **Open `register.html` in your browser**
